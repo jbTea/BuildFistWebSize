@@ -1,0 +1,56 @@
+body{
+    background-image: url(https://toigingiuvedep.vn/wp-content/uploads/2021/08/kham-pha-nhung-background-black-background-den-huyen-bi-va-dep-nhat.jpg);
+   
+}
+ #wapper{
+     min-height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+ .font-login{
+     max-width: 400px;
+     background: rgba(0 , 0, 0, 0.8);
+     flex-grow: 1;
+     padding: 30px 30px 40px;
+     box-shadow: 0px 0px 17px 2px rgba(243, 237, 237, 0.8);
+ }
+ .font-h1{
+     font-size: 25px;
+     color: white;
+     text-align: center;
+     margin-bottom: 30px;
+ }
+ #font-gr{
+     border-bottom: 1px solid #fff;
+     margin-top: 15px;
+     margin-bottom: 20px;
+     display: flex;
+}
+#font-gr i{
+    color: rgb(255, 254, 253);
+    font-size: 16px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
+ .font-input{
+     background: transparent;
+     border: 0;
+     outline: 0;
+     color: white;
+     flex-grow: 1;
+}
+.font-input::placeholder{
+    color: wheat;
+}
+.font-submit{
+    background: transparent;
+    border: 1px solid white;
+    width: 100%;
+    text-transform: uppercase;
+    padding: 6px 10px;
+    color: white;
+}
+.font-submit:hover{
+    border: 1px solid #4834d4;
+}

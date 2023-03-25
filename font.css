@@ -1,0 +1,12 @@
+@font-face{ 
+    font-family:"Hurricane-Regular";
+    src: url(font/Hurricane-Regular.ttf);
+}
+@font-face {
+    font-family:"Roboto-Bold" ;
+    src: url(font/Roboto-Bold.ttf);
+}
+@font-face {
+    font-family:"Roboto-Light" ;
+    src: url(font/Roboto-Light.ttf);
+}
